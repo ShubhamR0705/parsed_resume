@@ -1,0 +1,85 @@
+{
+    "Personal Information": {
+        "Name": "Shubham Rathod",
+        "Email": "shubhamurathod@gmail.com",
+        "Phone": "9359801337",
+        "Location": "Yavatmal",
+        "LinkedIn": "https://www.linkedin.com/in/shubham-rathod-995796229",
+        "GitHub": "https://github.com/ShubhamR0705"
+    },
+    "Education": [
+        {
+            "Degree": "B.Tech in Artificial Intelligence & Data Science",
+            "Institution": "Vishwakarma Institute of Information Technology, Pune",
+            "Year": "2021 \u2013 2025",
+            "CGPA": "8.57"
+        },
+        {
+            "Degree": "12th (Higher Secondary Certificate)",
+            "Institution": "Adv. Shankarao College of Science, Yavatmal",
+            "Year": "2020",
+            "Percentage": "82.30"
+        },
+        {
+            "Degree": "10th (Secondary School Certificate)",
+            "Institution": "Little Birds English Medium School, Darwha",
+            "Year": "2018",
+            "Percentage": "92.20"
+        }
+    ],
+    "Experience": [
+        {
+            "Role": "Data Analyst (Internship)",
+            "Company": "ineuron.ai",
+            "Duration": "05/2024 \u2013 06/2024",
+            "Location": "Virtual"
+        },
+        {
+            "Role": "Data Analyst (Internship)",
+            "Company": "AISE INDIA",
+            "Duration": "03/2024 \u2013 04/2024",
+            "Location": "Yavatmal"
+        },
+        {
+            "Role": "Business Associate",
+            "Company": "Winzera Company",
+            "Duration": "12/2022 \u2013 02/2023",
+            "Location": "Pune"
+        }
+    ],
+    "Certifications": [
+        "IBM Data Science Professional Certificate (Coursera)",
+        "Excel Essential Training (Microsoft 365) (LinkedIn Learning)",
+        "AWS Cloud Technology Consultant Professional Certificate (Coursera)",
+        "The Ultimate MySQL Bootcamp: Go from SQL Beginner to Expert (Udemy)",
+        "Python for Data Science Essential Training Part 1 (LinkedIn Learning)",
+        "Python Programming with Projects (Infosys Springboard)"
+    ],
+    "Skills": [
+        "Python",
+        "Machine Learning",
+        "MySQL",
+        "Ms Excel",
+        "Power Bi",
+        "R"
+    ],
+    "Projects": [
+        {
+            "Title": "Sales Insights Data analysis using Power Bi",
+            "Description": "Developed and implemented Power BI dashboards for Atliq Hardware Company, providing real-time sales insights and empowered sales director with actionable insights for strategic decision-making."
+        },
+        {
+            "Title": "Skin Cancer Detection using AI",
+            "Description": "A Deep learning model to detect skin cancer from images and accurately classify skin lesions with almost 97% accuracy. Experimented with CNN, VGG16, VGG19, and CNN-SVM hybrid model. A PhD project of My College Professor."
+        },
+        {
+            "Title": "Toxic Comment Classification",
+            "Description": "A Machine learning model to classify and identify toxic comments percentage level on online platforms automatically detecting and categorizing comments into various toxicity levels. This project was part of the Jigsaw Toxic Comment Classification Challenge on Kaggle."
+        }
+    ],
+    "Extra Curriculum": [
+        "5 Star in SQL and Python on HackerRank",
+        "Participated in events of the Spardha\u201924 organized by the Unstop",
+        "Volunteered in the NSS Camp Events"
+    ]
+}
